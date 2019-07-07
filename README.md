@@ -28,4 +28,4 @@ flutter run
 
 Tampilan
 
-![demo](https://github.com/maulana20/flutter-flight-search/blob/master/demo.gif)
+![demo](https://github.com/maulana20/flutter-app-ui-challenge/blob/master/demo.gif)
